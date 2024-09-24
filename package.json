@@ -89,7 +89,7 @@
     "marked": "^4.0.12",
     "prettier": "2.7.1",
     "rimraf": "^3.0.2",
-    "rollup": "^2.77.2",
+    "rollup": "^3.0.0",
     "rollup-plugin-auto-external": "^2.0.0",
     "semantic-release": "^19.0.5",
     "source-map-support": "^0.5.21",
