@@ -74,7 +74,7 @@
     "eslint-plugin-functional": "^4.2.2",
     "eslint-plugin-github": "^4.3.7",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsdoc": "^39.3.6",
+    "eslint-plugin-jsdoc": "^50.0.0",
     "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-optimize-regex": "^1.2.1",
