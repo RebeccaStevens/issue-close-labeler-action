@@ -5717,7 +5717,7 @@ __metadata:
     eslint-plugin-sonarjs: ^0.15.0
     eslint-plugin-unicorn: ^43.0.2
     husky: ^8.0.1
-    iter-ops: ^1.6.2
+    iter-ops: ^3.0.0
     js-yaml: ^4.1.0
     lint-staged: ^13.0.0
     markdownlint-cli: ^0.32.2
@@ -5777,10 +5777,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"iter-ops@npm:^1.6.2":
-  version: 1.6.4
-  resolution: "iter-ops@npm:1.6.4"
-  checksum: ad89325ee6314ea3510235642958f21c75dea24c50ac6a0f960bb80f1eabb490c455efc6ce2e8bb1615408ae56b09d5526c2342ffdee63a0c39b67b6ebbbb847
+"iter-ops@npm:^3.0.0":
+  version: 3.1.1
+  resolution: "iter-ops@npm:3.1.1"
+  checksum: 4d6fa532e529d317934db18c0569a5aab4aee14a7eedb8b9debaa20de402d8d0cc37e4e6759f0c4f3fbc51337d91cc2aa0c47afa9d4882751a93eee975a1c14a
   languageName: node
   linkType: hard
 
