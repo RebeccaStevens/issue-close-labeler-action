@@ -62,7 +62,7 @@
     "@typescript-eslint/parser": "^5.30.0",
     "@vercel/ncc": "^0.34.0",
     "ava": "^4.3.3",
-    "c8": "^7.11.3",
+    "c8": "^10.0.0",
     "codecov": "^3.8.3",
     "commitizen": "^4.2.4",
     "cspell": "^6.8.1",
