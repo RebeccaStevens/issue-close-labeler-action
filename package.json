@@ -65,7 +65,7 @@
     "c8": "^7.11.3",
     "codecov": "^3.8.3",
     "commitizen": "^4.2.4",
-    "cspell": "^6.8.1",
+    "cspell": "^8.0.0",
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.5.0",
