@@ -87,7 +87,7 @@
     "lint-staged": "^13.0.0",
     "markdownlint-cli": "^0.32.2",
     "marked": "^4.0.12",
-    "prettier": "2.7.1",
+    "prettier": "3.5.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.77.2",
     "rollup-plugin-auto-external": "^2.0.0",
